@@ -17,4 +17,4 @@ Bu proje, BMW markasını tanıtan ve özelliklerini sergileyen bir web sayfası
 - **SCSS:** Daha esnek ve sürdürülebilir CSS yazmak için.
 - **Google Fonts:** Web fontları kullanmak için.
 
-![] (  )# bmw
+![] (https://github.com/Rasime-Dumlupunar/bmw/blob/main/BMW.gif)
