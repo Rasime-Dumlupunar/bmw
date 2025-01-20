@@ -1,7 +1,5 @@
 # BMW Project
 
-## Proje Açıklaması
-
 Bu proje, BMW markasını tanıtan ve özelliklerini sergileyen bir web sayfasıdır. Proje HTML, SCSS ve Google Font ailesi kullanılarak oluşturulmuştur. Bu proje, modern ve kullanıcı dostu bir arayüz sunmayı amaçlamaktadır.
 
 ## Özellikler
